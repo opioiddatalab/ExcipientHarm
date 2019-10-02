@@ -1,0 +1,635 @@
+product_name,brand,flag
+MYDAYI,mydayi,Brand candidate
+SOMA COMPOUND W/CODEINE,soma,Brand candidate
+DEXMET,dexmet,Brand candidate
+SYNALGOS-DC,synalgos,Brand candidate
+ZERLOR,zerlor,Brand candidate
+HYSINGLA ER,hysingla,Brand candidate
+ZOHYDRO ER,zohydro,Brand candidate
+XYLON 10,xylon,Brand candidate
+VYVANS,vyvans,Brand candidate
+COTEMPLA XR-ODT,cotempla,Brand candidate
+ARYMO ER,arymo,Brand candidate
+MORPHABOND ER,morphabond,Brand candidate
+NALOCET,nalocet,Brand candidate
+QUAZEPAM,quazepam,Generic name
+TRAMADOL HCL,tramadol,Generic name
+Ascomp with Codeine,ascomp,Brand candidate
+Butalbital Compound,butalibital,Brand candidate
+Butinal W/Codeine #3,butinal,Brand candidate
+Equagesic,equagesic,Brand candidate
+Equazine-M,equazinem,Brand candidate
+Farbital,farbital,Brand candidate
+Fembutal,fembutal,Brand candidate
+Fiorgen,fiorgen,Brand candidate
+Fiorinal,fiorinal,Brand candidate
+Fiormor,fiormor,Brand candidate
+Fiortal,fiortal,Brand candidate
+Fortabs,fortabs,Brand candidate
+Heptogesic,heptogesic,Brand candidate
+Idenal,idenal,Brand candidate
+Isobutal,isobutal,Brand candidate
+Isolin,isolin,Brand candidate
+Isollyl,isollyl,Brand candidate
+Lanorinal,lanorinal,Brand candidate
+Meprobamate Compound,meprobamate,Brand candidate
+Meprogese,meprogese,Brand candidate
+Meprogesic,meprogesic,Brand candidate
+Meprogesic-Q,meprogesicq,Brand candidate
+Mepro-Sprin,meprosprin,Brand candidate
+Micrainin,micrainin,Brand candidate
+Mygranol W/Codeine #3,mygranol,Brand candidate
+Q-Gesic,qgesic,Brand candidate
+Tenstan,tenstan,Brand candidate
+Vibutal,vibutal,Brand candidate
+Viprogesic,viprogesic,Brand candidate
+adrafinil,adrafinil,Generic name
+olmifon,olmifon,Brand candidate
+allobarbital,allobarbital,Generic name
+alphenal,alphenal,Generic name
+Alprazolam Intensol,alprazolam,Generic name
+ alprox,alprox,Brand candidate
+ frontin,frontin,Brand candidate
+Gabazolamine,gabazolamine,Brand candidate
+ ksalol,ksalol,Brand candidate
+ neurol,neurol,Brand candidate
+Niravam,niravam,Brand candidate
+ restyl,restyl,Brand candidate
+ solanax,solanax,Brand candidate
+ trankimazin,trankimazin,Brand candidate
+xanax,xanax,Brand candidate
+amfepramone,amfepramone,Generic name
+Adderall,adderall,Brand candidate
+Adzenys XR-ODT,adzenys,Brand candidate
+Evekeo,evekeo,Brand candidate
+amfetaminil,amfetaminil,Generic name
+daptazile,daptazile,Brand candidate
+amobarbital,amobarbital,Generic name
+dexamyl,dexamyl,Brand candidate
+drinamyl,drinamyl,Brand candidate
+AMPHETAMINE SALT COMBO,amphetamine,Generic name
+amphetaminil,amphetaminil,Generic name
+aprobarbital,aprobarbital,Generic name
+armodafinil,armodafinil,Generic name
+Nuvigil,nuvigil,Brand candidate
+Strattera,strattera,Brand candidate
+barbital,barbital,Generic name
+benfluorex,benfluorex,Generic name
+thiadipona,thiadipona,Brand candidate
+BENZPHETAMINE HCL,benzphetamine,Generic name
+didrex,didrex,Brand candidate
+bromantane,bromantane,Generic name
+ladasten,ladasten,Brand candidate
+ bromam,bromam,Brand candidate
+lectopam,lectopam,Brand candidate
+ lexatin,lexatin,Brand candidate
+ lexaurin,lexaurin,Brand candidate
+ lexotan,lexotan,Brand candidate
+ lexotanil,lexotanil,Brand candidate
+ dormex,dormex,Brand candidate
+lendormin,lendormin,Brand candidate
+ noctilan,noctilan,Brand candidate
+ sintonal,sintonal,Brand candidate
+Belbuca,belbuca,Brand candidate
+BUPRENEX,buprenex,Brand candidate
+BUPRENORPHINE HCL,buprenorphine,Generic name
+Butrans,butrans,Brand candidate
+Subutex,subutex,Brand candidate
+Bunavail,bunavail,Brand candidate
+Suboxone,suboxone,Brand candidate
+Zubsolv,zubsolv,Brand candidate
+butisol,butisol,Brand candidate
+Barbased,barbased,Brand candidate
+Busodium,busodium,Brand candidate
+Butatran,butatran,Brand candidate
+BUTORPHANOL TARTRATE,butorphanol,Generic name
+butylvinal,butylvinal,Generic name
+albego,albego,Brand candidate
+ limpidon,limpidon,Brand candidate
+levana,levana,Brand candidate
+gerodorm,gerodorm,Brand candidate
+ frisium,frisium,Brand candidate
+onfi,onfi,Brand candidate
+ urbanol,urbanol,Brand candidate
+asenlix,asenlix,Brand candidate
+clobenzorex,clobenzorex,Generic name
+dinintel,dinintel,Brand candidate
+finedal,finedal,Brand candidate
+rexigen,rexigen,Brand candidate
+Ceberclon,ceberclon,Brand candidate
+CLONAZEPAM,clonazepam,Generic name
+ iktorivil,iktorivil,Brand candidate
+ klonopin,klonopin,Brand candidate
+rivatril,rivatril,Brand candidate
+ rivotril,rivotril,Brand candidate
+CLORAZEPATE DIPOTASSIUM,clorazepate,Generic name
+tranxene,tranxene,Brand candidate
+ tranxilium,tranxilium,Brand candidate
+ clozan,clozan,Brand candidate
+veratran,veratran,Brand candidate
+ olcadil,olcadil,Brand candidate
+sepazon,sepazon,Brand candidate
+CAPITAL W-CODEINE,capital,Brand candidate
+ACETAMINOPHEN-CODEINE,codeine,Generic name
+Anacin-3 with Codeine (acetam),acetam,Brand candidate
+Anacin-3-Codeine (acetaminoph),acetaminoph,Brand candidate
+An-Abate,anabate,Brand candidate
+Coastaldyne,coastaldyne,Brand candidate
+Codaca No.3,codaca,Brand candidate
+Codaphen,codaphen,Brand candidate
+M-Gesic,mgesic,Brand candidate
+Phenaphen W/Codeine,phenaphen,Brand candidate
+Proval No.3,proval,Brand candidate
+Sk-APAP-Codeine,skcodeine,Brand candidate
+Steraphen W/Codeine,steraphen,Brand candidate
+Stopayne,stopayne,Brand candidate
+Tylagesic 3,tylagesic,Brand candidate
+Tylenol-Codeine #2,tylenol,Brand candidate
+Umi-APAP,umiapap,Brand candidate
+Vitapap-Codeine,vitcodeine,Brand candidate
+Amaphen with Codeine No.3,amaphen,Brand candidate
+Cotabflu,cotabflu,Brand candidate
+Emcodeine No.3,emcodeine,Brand candidate
+Empirin W/Codeine,empirin,Brand candidate
+Fioricet with Codeine,fioricet,Brand candidate
+Maxiflu CDX,maxiflux,Brand candidate
+Phenflu CDX,phenflux,Brand candidate
+Phrenilin w/Caffeine-Codeine,phrenilin,Brand candidate
+Lanabarb No.1,lanabarb,Brand candidate
+cyclazodone,cyclazodone,Generic name
+cyclobarbital,cyclobarbital,Generic name
+cyclobarbitol,cyclobarbitol,Generic name
+cyclopal,cyclopal,Brand candidate
+dormisan,dormisan,Brand candidate
+dadumir,dadumir,Brand candidate
+Dexampex,dexampex,Brand candidate
+Dexedrine,dexedrine,Brand candidate
+DextroStat,dextrostat,Brand candidate
+Ferndex,ferndex,Brand candidate
+Oxydess,oxydess,Brand candidate
+Zenzedi,zenzedi,Brand candidate
+Focalin,focalin,Brand candidate
+PROCENTRA,procentra,Brand candidate
+Darvon,darvon,Brand candidate
+Dolene,dolene,Brand candidate
+Doraphen-65,doraphen,Brand candidate
+Margesic (propoxyphene),margesic,Brand candidate
+Balacet 325,balacet,Brand candidate
+Bexophene,bexophene,Brand candidate
+Darvocet A500,darvocet,Brand candidate
+Dolacet,dolacet,Brand candidate
+Dolagesic,dolagesic,Brand candidate
+Doxaphene Compound,doxaphene,Brand candidate
+Genagesic,genagesic,Brand candidate
+Lorcet (propoxyphene),lorcet,Brand candidate
+Pancet,pancet,Brand candidate
+Propacet 100,propacet,Brand candidate
+Propoxacet-N 100,propoxacet,Brand candidate
+Propoxyphene Compound-65,propoxyphene,Generic name
+Trycet,trycet,Brand candidate
+Wygesic,wygesic,Brand candidate
+antenex,antenex,Brand candidate
+ apaurin,apaurin,Brand candidate
+ apozepam,apozepam,Brand candidate
+ apzepam,apzepam,Brand candidate
+Diastat,diastat,Brand candidate
+Diazepam Intensol,diazepam,Generic name
+ diazepan,diazepan,Brand candidate
+ hexalid,hexalid,Brand candidate
+ normabel,normabel,Brand candidate
+Ro-Azepam,roazepam,Brand candidate
+ stedon,stedon,Brand candidate
+ stesolid,stesolid,Brand candidate
+ valaxona,valaxona,Brand candidate
+ valium,valium,Brand candidate
+X-O'spaz,xo'spaz,Brand candidate
+atrium,atrium,Brand candidate
+difebarbamate,difebarbamate,Generic name
+sevrium,sevrium,Brand candidate
+DIHYDRO-CP,dihydrocp,Brand candidate
+DIHYDRO-PE,dihydrope,Brand candidate
+TREZIX,trezix,Brand candidate
+Azdone,azdone,Brand candidate
+Damason-P,damasonp,Brand candidate
+Panasal,panasal,Brand candidate
+Adol (hydrocodone-acetaminoph),acetaminoph,Brand candidate
+Amacodone,amacodone,Brand candidate
+Anexsia,anexsia,Brand candidate
+Anodynos-Dhc,anodynos,Brand candidate
+Co-Gesic,cogesic,Brand candidate
+Dolfen,dolfen,Brand candidate
+Dolo-Pap,dolopap,Brand candidate
+Dolorex Forte,dolorex,Brand candidate
+Dolphen,dolphen,Brand candidate
+Duocet,duocet,Brand candidate
+Duradyne Dhc,duradyne,Brand candidate
+Hycodaphen,hycodaphen,Brand candidate
+Hycogesic,hycogesic,Brand candidate
+Hycomed,hycomed,Brand candidate
+Hyco-Pap,hycopap,Brand candidate
+Hycotab,hycotab,Brand candidate
+Hydrocet,hydrocet,Brand candidate
+Hydrogesic,hydrogesic,Brand candidate
+Hy-Phen,hyphen,Brand candidate
+Lorcide,lorcide,Brand candidate
+Lortab,lortab,Brand candidate
+Margesic-H,margesich,Brand candidate
+Maxidone,maxidone,Brand candidate
+Medicap Hd,medicap,Brand candidate
+Medipain 5,medipain,Brand candidate
+Megagesic,megagesic,Brand candidate
+Megamor,megamor,Brand candidate
+Mi-Code,micode,Brand candidate
+Norcet,norcet,Brand candidate
+Norco,norco,Brand candidate
+Panacet,panacet,Brand candidate
+Panlor,panlor,Brand candidate
+Polygesic,polygesic,Brand candidate
+Procet,procet,Brand candidate
+Propain Hc,propain,Brand candidate
+Rogesic #3,rogesic,Brand candidate
+Senefen Iii,senefeni,Brand candidate
+Stagesic,stagesic,Brand candidate
+T-Gesic,tgesic,Brand candidate
+Ugesic,ugesic,Brand candidate
+Ultragesic,ultragesic,Brand candidate
+Vanacet,vanacet,Brand candidate
+Vendone,vendone,Brand candidate
+Verdrocet,verdrocet,Brand candidate
+Vicodin,vicodin,Brand candidate
+Xodol 10/300,xodol,Brand candidate
+Zydone,zydone,Brand candidate
+metrotonin,metrotonin,Brand candidate
+narconumal,narconumal,Brand candidate
+ephedrine,ephedrine,Generic name
+ESTAZOLAM,estazolam,Generic name
+ nuctalon,nuctalon,Brand candidate
+prosom,prosom,Brand candidate
+analepticon,analepticon,Brand candidate
+etamivan,etamivan,Generic name
+vandid,vandid,Brand candidate
+antilon,antilon,Brand candidate
+dormin,dormin,Brand candidate
+dormitiv,dormitiv,Brand candidate
+dorval,dorval,Brand candidate
+ meilax,meilax,Brand candidate
+ ronlax,ronlax,Brand candidate
+victan,victan,Brand candidate
+adiparthrol,adiparthrol,Brand candidate
+apetinil,apetinil,Brand candidate
+etilaam,etilaam,Brand candidate
+ etizest,etizest,Brand candidate
+ pasaden,pasaden,Brand candidate
+febarbamate,febarbamate,Generic name
+solium,solium,Brand candidate
+tymium,tymium,Brand candidate
+cafilon,cafilon,Brand candidate
+fenbutrazate,fenbutrazate,Generic name
+sabacid,sabacid,Brand candidate
+fencamfamin,fencamfamin,Generic name
+reactivan,reactivan,Brand candidate
+fencamfamine,fencamfamine,Generic name
+altimina,altimina,Brand candidate
+fencamine,fencamine,Generic name
+sicoclor,sicoclor,Brand candidate
+biocapton,biocapton,Brand candidate
+captagon,captagon,Brand candidate
+fenethylline,fenethylline,Generic name
+fitton,fitton,Brand candidate
+fenfluramine,fenfluramine,Generic name
+fen-phen,fenphen,Brand candidate
+pondimin,pondimin,Brand candidate
+fenproporex,fenproporex,Generic name
+perphoxene,perphoxene,Brand candidate
+Abstral,abstral,Brand candidate
+Actiq,actiq,Brand candidate
+Duragesic,duragesic,Brand candidate
+FENTANYL,fentanyl,Generic name
+Fentanyl Oralet,fentanylet,Brand candidate
+Fentora,fentora,Brand candidate
+Ionsys,ionsys,Brand candidate
+Onsolis,onsolis,Brand candidate
+SUBSYS,subsys,Brand candidate
+dalmadorm,dalmadorm,Brand candidate
+ dalmane,dalmane,Brand candidate
+FLURAZEPAM HCL,flurazepam,Generic name
+ fluzepam,fluzepam,Brand candidate
+coreminal,coreminal,Brand candidate
+fonturacetam,acetam,Generic name
+carphedon,carphedon,Brand candidate
+phenotropil,phenotropil,Brand candidate
+frugalan,frugalan,Brand candidate
+furfenorex,furfenorex,Generic name
+paxipam,paxipam,Brand candidate
+heptabarb,heptabarb,Generic name
+medapan,medapan,Brand candidate
+medomin,medomin,Brand candidate
+noctyn,noctyn,Brand candidate
+heptabarbital,heptabarbital,Generic name
+heptobarbital,heptobarbital,Generic name
+rutonal,rutonal,Brand candidate
+barbidorm,barbidorm,Brand candidate
+citodon,citodon,Brand candidate
+citopan,citopan,Brand candidate
+cyclonal,cyclonal,Brand candidate
+cyclopan,cyclopan,Brand candidate
+dorico,dorico,Brand candidate
+evipal,evipal,Brand candidate
+evipan,evipan,Brand candidate
+hexobarbital,hexobarbital,Generic name
+sombucaps,sombucaps,Brand candidate
+sombulex,sombulex,Brand candidate
+somnalert,somnalert,Brand candidate
+tobinal,tobinal,Brand candidate
+hexobarbitone,hexobarbitone,Generic name
+HYDROCODONE BITARTRATE,hydrocodone,Generic name
+IBUDONE,ibudone,Brand candidate
+REPREXAIN,reprexain,Brand candidate
+VICOPROFEN,vicoprofen,Brand candidate
+Dilaudid,dilaudid,Brand candidate
+Exalgo ER,exalgo,Brand candidate
+HYDROMORPHONE HCL,hydromorphone,Generic name
+Hydrostat,hydrostat,Brand candidate
+Palladone,palladone,Brand candidate
+LEVORPHANOL TARTRATE,levorphanol,Generic name
+Vyvanse,vyvanse,Brand candidate
+dormonoct,dormonoct,Brand candidate
+ativan,ativan,Brand candidate
+ lorabenz,lorabenz,Brand candidate
+Lorazepam Intensol,lorazepam,Generic name
+ lorenin,lorenin,Brand candidate
+ lorsilan,lorsilan,Brand candidate
+ orfidal,orfidal,Brand candidate
+ temesta,temesta,Brand candidate
+BELVIQ,belviq,Brand candidate
+loramet,loramet,Brand candidate
+ noctamid,noctamid,Brand candidate
+ pronoctan,pronoctan,Brand candidate
+lucidril,lucidril,Brand candidate
+meclofenoxate,meclofenoxate,Generic name
+ ansilan,ansilan,Brand candidate
+ mezapam,mezapam,Brand candidate
+nobrium,nobrium,Brand candidate
+ raporan,raporan,Brand candidate
+ rudotel,rudotel,Brand candidate
+anexate,anexate,Brand candidate
+mefenorex,mefenorex,Generic name
+pondinil,pondinil,Brand candidate
+rondimen,rondimen,Brand candidate
+MEPERIDINE HCL,meperidine,Generic name
+mephobarbital,mephobarbital,Generic name
+Diskets,diskets,Brand candidate
+Dolophine,dolophine,Brand candidate
+Methadone Intensol,methadone,Generic name
+Methadose,methadose,Brand candidate
+desoxyn,desoxyn,Brand candidate
+gemonil,gemonil,Brand candidate
+metharbital,metharbital,Generic name
+brevimytal,brevimytal,Brand candidate
+brevital,brevital,Brand candidate
+brietal,brietal,Brand candidate
+methohexital,methohexital,Generic name
+methohexitone,methohexitone,Generic name
+Aptensio XR,aptensio,Brand candidate
+Concerta,concerta,Brand candidate
+Daytrana,daytrana,Brand candidate
+Metadate CD,metadate,Brand candidate
+Methylin,methylin,Brand candidate
+OXYMORPHONE HCL ER,oxymorphone,Brand candidate
+QuilliChew ER,quillichew,Brand candidate
+QUILLIVANT XR,quillivant,Brand candidate
+Ritalin,ritalin,Brand candidate
+mebaral,mebaral,Brand candidate
+phemiton,phemiton,Brand candidate
+prominal,prominal,Brand candidate
+Sansert,sansert,Brand candidate
+ sedoxil,sedoxil,Brand candidate
+dormicum,dormicum,Brand candidate
+ dormonid,dormonid,Brand candidate
+ hypnovel,hypnovel,Brand candidate
+MIDAZOLAM HCL,midazolam,Generic name
+ versed,versed,Brand candidate
+modafinil,modafinil,Generic name
+provigil,provigil,Brand candidate
+Avinza,avinza,Brand candidate
+Kadian,kadian,Brand candidate
+MORPHINE SULFATE,morphine,Generic name
+Oramorph SR,oramorph,Brand candidate
+Roxanol,roxanol,Brand candidate
+Embeda,embeda,Brand candidate
+pronarcon,pronarcon,Brand candidate
+censedal,censedal,Brand candidate
+coramine,coramine,Brand candidate
+erimin,erimin,Brand candidate
+ alodorm,alodorm,Brand candidate
+ dumolid,dumolid,Brand candidate
+mogadon,mogadon,Brand candidate
+ nitrazadon,nitrazadon,Brand candidate
+ pacisyn,pacisyn,Brand candidate
+ stilny,stilny,Brand candidate
+PAREGORIC,paregoric,Brand candidate
+Numorphan,numorphan,Brand candidate
+Opana,opana,Brand candidate
+ alepam,alepam,Brand candidate
+ medopam,medopam,Brand candidate
+ murelax,murelax,Brand candidate
+ noripam,noripam,Brand candidate
+ opamox,opamox,Brand candidate
+ oxabenz,oxabenz,Brand candidate
+ oxapax,oxapax,Brand candidate
+ oxascand,oxascand,Brand candidate
+OXAZEPAM,oxazepam,Generic name
+ purata,purata,Brand candidate
+ serax,serax,Brand candidate
+ serenid,serenid,Brand candidate
+ serepax,serepax,Brand candidate
+seresta,seresta,Brand candidate
+ sobril,sobril,Brand candidate
+oxilofrine,oxilofrine,Generic name
+Dazidox,dazidox,Brand candidate
+Endocodone,endocodone,Brand candidate
+ETH-Oxydose,ethoxydose,Brand candidate
+Oxaydo,oxaydo,Brand candidate
+Oxecta,oxecta,Brand candidate
+OXYCODONE CONCENTRATE,oxycodone,Generic name
+OxyContin,oxycontin,Brand candidate
+Oxyfast,oxyfast,Brand candidate
+OxyIR,oxyir,Brand candidate
+Percolone,percolone,Brand candidate
+Roxicodone,roxicodone,Brand candidate
+Xtampza ER,xtampza,Brand candidate
+Endodan,endodan,Brand candidate
+Percodan,percodan,Brand candidate
+Roxiprin,roxiprin,Brand candidate
+Combunox,combunox,Brand candidate
+Endocet,endocet,Brand candidate
+Lynox,lynox,Brand candidate
+Magnacet,magnacet,Brand candidate
+Narvox,narvox,Brand candidate
+Percocet,percocet,Brand candidate
+Perloxx,perloxx,Brand candidate
+Primalev,primalev,Brand candidate
+Primlev,primlev,Brand candidate
+Roxicet,roxicet,Brand candidate
+Tylox,tylox,Brand candidate
+Xartemis XR,xartemis,Brand candidate
+Xolox,xolox,Brand candidate
+oxyephrine,oxyephrine,Generic name
+Alagesic,alagesic,Brand candidate
+Allzital,allzital,Brand candidate
+Americet,americet,Brand candidate
+Analor,analor,Brand candidate
+Anolor 300,anolor,Brand candidate
+Anoquan,anoquan,Brand candidate
+Arcet,arcet,Brand candidate
+Axocet,axocet,Brand candidate
+Bancap,bancap,Brand candidate
+Bucet,bucet,Brand candidate
+Bupap,bupap,Brand candidate
+Butace,butace,Brand candidate
+Butacet,butacet,Brand candidate
+Butaphen,butaphen,Brand candidate
+Butex Forte,butex,Brand candidate
+Capacet,capacet,Brand candidate
+Cephadyn,cephadyn,Brand candidate
+Dolgic,dolgic,Brand candidate
+Dolmar,dolmar,Brand candidate
+Endolor,endolor,Brand candidate
+Equi-Cet,equicet,Brand candidate
+Esgic-Plus,esgicplus,Brand candidate
+Ezol,ezol,Brand candidate
+Febridyne,febridyne,Brand candidate
+Femcet,femcet,Brand candidate
+Fiorpap,fiorpap,Brand candidate
+Ide-Cet,idecet,Brand candidate
+Indogesic,indogesic,Brand candidate
+Isobutyl,isobutyl,Brand candidate
+Isocet,isocet,Brand candidate
+Isopap,isopap,Brand candidate
+Lorprn,lorprn,Brand candidate
+Marten-Tab,martentab,Brand candidate
+Medigesic,medigesic,Brand candidate
+Minotal,minotal,Brand candidate
+Orbivan,orbivan,Brand candidate
+Pacaps,pacaps,Brand candidate
+Palgesic M,palgesic,Brand candidate
+Pharmagesic,pharmagesic,Brand candidate
+Promacet,promacet,Brand candidate
+Prominol,prominol,Brand candidate
+QUALA-CET,qualacet,Brand candidate
+Repan-CF,repancf,Brand candidate
+Sedapap,sedapap,Brand candidate
+Tenake,tenake,Brand candidate
+Tencet,tencet,Brand candidate
+Tencon,tencon,Brand candidate
+Triaprin,triaprin,Brand candidate
+Two-Dyne,twodyne,Brand candidate
+Zebutal,zebutal,Brand candidate
+betanamin,betanamin,Brand candidate
+ceractiv,ceractiv,Brand candidate
+cylert,cylert,Brand candidate
+pemoline,pemoline,Generic name
+tradon,tradon,Brand candidate
+PENTAZOCINE-NALOXONE HCL,pentazocine,Generic name
+Talacen,talacen,Brand candidate
+Talwin Compound,talwin,Brand candidate
+nembutal,nembutal,Brand candidate
+pentobarbital,pentobarbital,Generic name
+Demerol,demerol,Brand candidate
+Meperitab,meperitab,Brand candidate
+Meprozine,meprozine,Brand candidate
+phenbutrazate,phenbutrazate,Generic name
+adipost,adipost,Brand candidate
+anorex,anorex,Brand candidate
+appecon,appecon,Brand candidate
+bontril,bontril,Brand candidate
+melfiat,melfiat,Brand candidate
+phendiet,phendiet,Brand candidate
+plegine,plegine,Brand candidate
+marsin,marsin,Brand candidate
+marsine,marsine,Brand candidate
+mefolin,mefolin,Brand candidate
+neo-zine,neozine,Brand candidate
+phenmetrazine,phenmetrazine,Generic name
+preludin,preludin,Brand candidate
+phenobamate,phenobamate,Generic name
+phenobarb,phenobarb,Generic name
+Barbita,barbita,Brand candidate
+corvalol,corvalol,Brand candidate
+DONNATAL,donnatal,Brand candidate
+Luminal,luminal,Brand candidate
+phenobarbital,phenobarbital,Generic name
+QUADRAPAX,quadrapax,Brand candidate
+Solfoton,solfoton,Brand candidate
+ADIPEX-P,adipexp,Brand candidate
+QSYMIA,qsymia,Brand candidate
+SUPRENZA ODT,suprenza,Brand candidate
+ionamin,ionamin,Brand candidate
+phentermine,phentermine,Generic name
+phetharbital,phetharbital,Generic name
+Gen-XENE,genxene,Brand candidate
+Mysoline,mysoline,Brand candidate
+Sterasoline,sterasoline,Brand candidate
+probarbital,probarbital,Generic name
+vasalgin,vasalgin,Brand candidate
+catovit,catovit,Brand candidate
+katovit,katovit,Brand candidate
+prolintane,prolintane,Generic name
+promotil,promotil,Brand candidate
+villescon,villescon,Brand candidate
+ibomal,ibomal,Brand candidate
+nostal,nostal,Brand candidate
+propallylonal,propallylonal,Generic name
+quietal,quietal,Brand candidate
+propal,propal,Brand candidate
+propanal,propanal,Brand candidate
+proponal,proponal,Brand candidate
+benzedrex,benzedrex,Brand candidate
+obesin,obesin,Brand candidate
+ipronal,ipronal,Brand candidate
+Dormalin,dormalin,Brand candidate
+reposal,reposal,Generic name
+rhythmy,rhythmy,Brand candidate
+secobarbital,secobarbital,Generic name
+seconal,seconal,Brand candidate
+tuinal,tuinal,Brand candidate
+meridia,meridia,Brand candidate
+reductil,reductil,Brand candidate
+sibutramine,sibutramine,Generic name
+sibutrex,sibutrex,Brand candidate
+siredia,siredia,Brand candidate
+rectidon,rectidon,Brand candidate
+sigmodal,sigmodal,Generic name
+XYREM,xyrem,Brand candidate
+spirobarbital,spirobarbital,Generic name
+lotusate,lotusate,Brand candidate
+profundol,profundol,Brand candidate
+talbutal,talbutal,Generic name
+Nucynta,nucynta,Brand candidate
+ euhypnos,euhypnos,Brand candidate
+ normison,normison,Brand candidate
+restoril,restoril,Brand candidate
+Strazepam,strazepam,Brand candidate
+ temaze,temaze,Generic name
+TEMAZEPAM,temazepam,Generic name
+tetrabamate,tetrabamate,Generic name
+butysal,butysal,Brand candidate
+butysedal,butysedal,Brand candidate
+tetrabarbital,tetrabarbital,Generic name
+tetramal,tetramal,Brand candidate
+myolastan,myolastan,Brand candidate
+ConZip,conzip,Brand candidate
+Rybix ODT,rybix,Brand candidate
+Ryzolt,ryzolt,Brand candidate
+Theratramadol-60,theratramadol,Brand candidate
+Ultram,ultram,Brand candidate
+Ultracet,ultracet,Brand candidate
+halcion,halcion,Brand candidate
+ rilamir,rilamir,Brand candidate
+TRIAZOLAM,triazolam,Generic name
+heptadrine,heptadrine,Brand candidate
+heptin,heptin,Brand candidate
+tuamine,tuamine,Brand candidate
+vinbarbital,vinbarbital,Generic name
+vinylbital,vinylbital,Generic name
+desbutal,desbutal,Brand candidate
