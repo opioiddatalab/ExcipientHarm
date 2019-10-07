@@ -99,7 +99,7 @@ The resulting strings looked like this:
 But there is still some leftover noise and garbage from the regex that could be cleaned up:
 >lactose, magnesium stearate, microcrystalline cellulose, polacrilin potassiummanufactured by:watson pharma private limitedverna, salcette goa 403 722 indiadistributed by:actavis pharma, inc
 
-We were able to extract about 1,500 SPL with inactive ingredient information, which can be found in the file InactiveIngredientList.csv in this repository.<br>
+We were able to extract about 1,500 SPL with inactive ingredient information, which can be found in the file [InactiveIngredientList.csv](https://github.com/opioiddatalab/ExcipientHarm/blob/master/inactive%20ingredients/inactiveIngredientList.csv) in this repository.<br>
 
 Drug Class | Labels with Excipients (%) | Total Labels
 :--- | :---: | :---: |
