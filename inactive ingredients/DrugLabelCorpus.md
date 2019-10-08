@@ -9,7 +9,7 @@ All drugs from the following Established Product Classes (EPC) were retrieved ([
 5. Benzodiazepine EPC [query permalink](https://nctr-crs.fda.gov/fdalabel/ui/search/spl-summaries/criteria/50825)
 6. Central nervous system stimulant EPC [query permalink](https://nctr-crs.fda.gov/fdalabel/ui/search/spl-summaries/criteria/50827)
 
-The corpus has 2,177 results as individual text files, separated by filename stems 
+The corpus has 2,177 results as individual text files, stored in this [ZIP archive](https://www.evernote.com/l/AhEwK_h3iH9OCIe_a1NpRYv4QtOJ9DzaK2s) (~50 MB). Each label is separated by filename stems, in 4 directories corresponding to the following classes:
 
 Drug Class | Filename Convention | Number of Labels | Earliest Year | Latest Year
 :--- | :---: | :---: | :---: | :---: |
@@ -21,6 +21,6 @@ Stimulants| SPL_stimulants#.txt | 272 | 1943 | 2018
 See detailed description [here](https://github.com/opioiddatalab/ExcipientHarm/blob/master/inactive%20ingredients/README.md).
 
 ## Pre-Licensed for Reuse
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />We make our processed dataset licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The Opioid Data Lab makes the corpus available under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Modification and commercial use are allowed with attribution; please mention "Opioid Data Lab at OpioidData.org" if using this file.
 
 The original data from label data from FDA are Public Domain and [Creative Commons Universal](https://creativecommons.org/publicdomain/zero/1.0/) (CC0 1.0).<br><br>
