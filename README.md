@@ -32,3 +32,6 @@ We have an ethical responsibility to minimize harm. The results of this systemat
 
 # What to do now
 If you are interested in the harms from inactive ingredients, you can [comment directly to FDA](https://www.federalregister.gov/documents/2019/09/20/2019-20372/the-food-and-drug-administration-solicits-input-on-potential-role-for-abuse-deterrent-formulations) about stimulants until November 19, 2019. Click on the green box that says "Submit a Formal Comment" or [click here](https://www.federalregister.gov/documents/2019/09/20/2019-20372/the-food-and-drug-administration-solicits-input-on-potential-role-for-abuse-deterrent-formulations#open-comment); you can also [read other's comments](https://www.regulations.gov/docketBrowser?rpp=50&so=DESC&sb=postedDate&po=0&dct=PS&D=FDA-2019-N-3403). 
+
+## Pre-Licensed for Reuse
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />We make our processed dataset licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
