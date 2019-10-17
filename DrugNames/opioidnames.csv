@@ -1,106 +1,106 @@
 generic_name,product_name,brand,flag
-buprenorphine,BUPRENEX,buprenex,Brand candidate
-buprenorphine,BUPRENORPHINE HCL,buprenorphine,Generic name
-buprenorphine,BUTRANS,butrans,Brand candidate
-buprenorphine,SUBOXONE,suboxone,Brand candidate
-buprenorphine,SUBUTEX,subutex,Brand candidate
-buprenorphine,ZUBSOLV,zubsolv,Brand candidate
-butorphanol,BUTORPHANOL TARTRATE,butorphanol,Generic name
-codeine,CAPITAL W-CODEINE,capital,Brand candidate
-codeine,ACETAMINOPHEN-CODEINE,codeine,Generic name
-codeine,FIORICET WITH CODEINE,fioricet,Brand candidate
-codeine,FIORINAL WITH CODEINE #3,fiorinal,Brand candidate
-codeine,TYLENOL-CODEINE NO.3,tylenol,Brand candidate
-dihydrocodeine,DIHYDRO-CP,dihydrocp,Brand candidate
-dihydrocodeine,DIHYDRO-PE,dihydrope,Brand candidate
-dihydrocodeine,TREZIX,trezix,Brand candidate
-fentanyl,ACTIQ,actiq,Brand candidate
-fentanyl,DURAGESIC,duragesic,Brand candidate
-fentanyl,FENTANYL,fentanyl,Generic name
-fentanyl,FENTORA,fentora,Brand candidate
-fentanyl,SUBSYS,subsys,Brand candidate
-hydrocdone,LORCET PLUS,lorcet,Brand candidate
-hydrocodone,HYDROCODONE BITARTRATE,hydrocodone,Generic name
-hydrocodone,IBUDONE,ibudone,Brand candidate
-hydrocodone,LORTAB,lortab,Brand candidate
-hydrocodone,NORCO,norco,Brand candidate
-hydrocodone,REPREXAIN,reprexain,Brand candidate
-hydrocodone,STAGESIC,stagesic,Brand candidate
-hydrocodone,VICODIN,vicodin,Brand candidate
-hydrocodone,VICOPROFEN,vicoprofen,Brand candidate
-hydrocodone,XODOL 10-300,xodol,Brand candidate
-hydrocodone,ZYDONE,zydone,Brand candidate
-hydromorphone,DILAUDID,dilaudid,Brand candidate
-hydromorphone,EXALGO,exalgo,Brand candidate
-hydromorphone,HYDROMORPHONE HCL,hydromorphone,Generic name
-levorphanol,LEVORPHANOL TARTRATE,levorphanol,Generic name
-meperidine,DEMEROL,demerol,Brand candidate
-meperidine,MEPERIDINE HCL,meperidine,Generic name
-meperidine,MEPERITAB,meperitab,Brand candidate
-methadone,METHADONE HCL,methadone,Generic name
-methadone,METHADOSE,methadose,Brand candidate
-morphine,AVINZA,avinza,Brand candidate
-morphine,KADIAN,kadian,Brand candidate
-morphine,MORPHINE SULFATE,morphine,Generic name
-morphine,ORAMORPH SR,oramorph,Brand candidate
-opium,PAREGORIC,paregoric,Brand candidate
-oxycodone,ENDOCET,endocet,Brand candidate
-oxycodone,ENDODAN,endodan,Brand candidate
-oxycodone,MAGNACET,magnacet,Brand candidate
-oxycodone,OXYCODONE CONCENTRATE,oxycodone,Generic name
-oxycodone,OXYCONTIN,oxycontin,Brand candidate
-oxycodone,PERCOCET,percocet,Brand candidate
-oxycodone,PERCODAN,percodan,Brand candidate
-oxycodone,PRIMLEV,primlev,Brand candidate
-oxycodone,ROXICET,roxicet,Brand candidate
-oxycodone,ROXICODONE,roxicodone,Brand candidate
-oxycodone,TYLOX,tylox,Brand candidate
-oxymorphone,OPANA,opana,Brand candidate
-oxymorphone,OXYMORPHONE HCL,oxymorphone,Generic name
-pentazocine,PENTAZOCINE-NALOXONE HCL,pentazocine,Generic name
-tapentadol,NUCYNTA,nucynta,Brand candidate
 Fentanyl SA,ABSTRAL,abstral,Brand candidate
+fentanyl,ACTIQ,actiq,Brand candidate
 Hydrocodone SA,ANEXSIA,anexsia,Brand candidate
 Morphine LA,ARYMO ER,arymo,Brand candidate
 Codeine,ASCOMP W/CODEINE,ascomp,Brand candidate
+morphine,AVINZA,avinza,Brand candidate
 Propoxyphene,BALACET 325,balacet,Brand candidate
 Buprenorphine,BELBUCA,belbuca,Brand candidate
 Buprenorphine,BUNAVAIL,bunavail,Brand candidate
+buprenorphine,BUPRENEX,buprenex,Brand candidate
+buprenorphine,BUPRENORPHINE HCL,buprenorphine,Generic name
 Codeine,BUTALBITAL-APAP-CAFFEINE-CODEINE,butalibital,Brand candidate
+butorphanol,BUTORPHANOL TARTRATE,butorphanol,Generic name
+buprenorphine,BUTRANS,butrans,Brand candidate
+codeine,CAPITAL W-CODEINE,capital,Brand candidate
+codeine,ACETAMINOPHEN-CODEINE,codeine,Generic name
 Oxycodone SA,COMBUNOX,combunox,Brand candidate
 Tramadol LA,CONZIP,conzip,Brand candidate
 Propoxyphene,DARVOCET A500,darvocet,Brand candidate
 Propoxyphene,DARVON,darvon,Brand candidate
+meperidine,DEMEROL,demerol,Brand candidate
+dihydrocodeine,DIHYDRO-CP,dihydrocp,Brand candidate
+dihydrocodeine,DIHYDRO-PE,dihydrope,Brand candidate
+hydromorphone,DILAUDID,dilaudid,Brand candidate
 Methadone,DISKETS DISPERSIBLE,diskets,Brand candidate
 Methadone,DOLOPHINE HCL,dolophine,Brand candidate
+fentanyl,DURAGESIC,duragesic,Brand candidate
 Morphine LA,EMBEDA,embeda,Brand candidate
+oxycodone,ENDOCET,endocet,Brand candidate
+oxycodone,ENDODAN,endodan,Brand candidate
+hydromorphone,EXALGO,exalgo,Brand candidate
+fentanyl,FENTANYL,fentanyl,Generic name
+fentanyl,FENTORA,fentora,Brand candidate
+codeine,FIORICET WITH CODEINE,fioricet,Brand candidate
+codeine,FIORINAL WITH CODEINE #3,fiorinal,Brand candidate
 Hydrocodone SA,HYDROCET,hydrocet,Brand candidate
+hydrocodone,HYDROCODONE BITARTRATE,hydrocodone,Generic name
+hydromorphone,HYDROMORPHONE HCL,hydromorphone,Generic name
 Hydrocodone LA,HYSINGLA ER,hysingla,Brand candidate
+hydrocodone,IBUDONE,ibudone,Brand candidate
+morphine,KADIAN,kadian,Brand candidate
+levorphanol,LEVORPHANOL TARTRATE,levorphanol,Generic name
+hydrocdone,LORCET PLUS,lorcet,Brand candidate
+hydrocodone,LORTAB,lortab,Brand candidate
+oxycodone,MAGNACET,magnacet,Brand candidate
 Hydrocodone SA,MARGESIC-H,margesich,Brand candidate
 Hydrocodone SA,MAXIDONE,maxidone,Brand candidate
+meperidine,MEPERIDINE HCL,meperidine,Generic name
+meperidine,MEPERITAB,meperitab,Brand candidate
+methadone,METHADONE HCL,methadone,Generic name
+methadone,METHADOSE,methadose,Brand candidate
 Morphine LA,MORPHABOND ER,morphabond,Brand candidate
+morphine,MORPHINE SULFATE,morphine,Generic name
 Oxycodone SA,NALOCET,nalocet,Brand candidate
 Oxycodone SA,NARVOX,narvox,Brand candidate
+hydrocodone,NORCO,norco,Brand candidate
+tapentadol,NUCYNTA,nucynta,Brand candidate
 Fentanyl SA,ONSOLIS,onsolis,Brand candidate
+oxymorphone,OPANA,opana,Brand candidate
+morphine,ORAMORPH SR,oramorph,Brand candidate
 Oxycodone SA,OXAYDO,oxaydo,Brand candidate
+oxycodone,OXYCODONE CONCENTRATE,oxycodone,Generic name
+oxycodone,OXYCONTIN,oxycontin,Brand candidate
+oxymorphone,OXYMORPHONE HCL,oxymorphone,Generic name
 Dihydrocodeine,PANLOR DC,panlor,Brand candidate
+opium,PAREGORIC,paregoric,Brand candidate
+pentazocine,PENTAZOCINE-NALOXONE HCL,pentazocine,Generic name
+oxycodone,PERCOCET,percocet,Brand candidate
+oxycodone,PERCODAN,percodan,Brand candidate
 Oxycodone SA,PERCOLONE,percolone,Brand candidate
 Oxycodone SA,PERLOXX,perloxx,Brand candidate
 Hydrocodone SA,POLYGESIC,polygesic,Brand candidate
 Oxycodone SA,PRIMALEV,primalev,Brand candidate
+oxycodone,PRIMLEV,primlev,Brand candidate
+Propoxyphene,ACETAMINOPHEN-PROPOXYPHENE HCL,propoxyphene,Generic name
+hydrocodone,REPREXAIN,reprexain,Brand candidate
+oxycodone,ROXICET,roxicet,Brand candidate
+oxycodone,ROXICODONE,roxicodone,Brand candidate
 Tramadol SA,RYBIX ODT,rybix,Brand candidate
 Tramadol LA,RYZOLT,ryzolt,Brand candidate
 Codeine,SOMA COMPOUND W/CODEINE,soma,Brand candidate
+hydrocodone,STAGESIC,stagesic,Brand candidate
+buprenorphine,SUBOXONE,suboxone,Brand candidate
+fentanyl,SUBSYS,subsys,Brand candidate
+buprenorphine,SUBUTEX,subutex,Brand candidate
 Dihydrocodeine,SYNALGOS-DC,synalgos,Brand candidate
 Pentazocine,TALACEN,talacen,Brand candidate
 Pentazocine,TALWIN NX,talwin,Brand candidate
+Tramadol LA,TRAMADOL HCL,tramadol,Generic name
+dihydrocodeine,TREZIX,trezix,Brand candidate
+codeine,TYLENOL-CODEINE NO.3,tylenol,Brand candidate
+oxycodone,TYLOX,tylox,Brand candidate
 Tramadol SA,ULTRACET,ultracet,Brand candidate
 Tramadol LA,ULTRAM ER,ultram,Brand candidate
+hydrocodone,VICODIN,vicodin,Brand candidate
+hydrocodone,VICOPROFEN,vicoprofen,Brand candidate
 Oxycodone LA,XARTEMIS XR,xartemis,Brand candidate
+hydrocodone,XODOL 10-300,xodol,Brand candidate
 Oxycodone SA,XOLOX,xolox,Brand candidate
 Oxycodone LA,XTAMPZA ER,xtampza,Brand candidate
 Hydrocodone SA,XYLON 10,xylon,Brand candidate
 Dihydrocodeine,ZERLOR,zerlor,Brand candidate
 Hydrocodone LA,ZOHYDRO ER,zohydro,Brand candidate
-Propoxyphene,ACETAMINOPHEN-PROPOXYPHENE HCL,propoxyphene,Generic name
-Tramadol LA,TRAMADOL HCL,tramadol,Generic name
+buprenorphine,ZUBSOLV,zubsolv,Brand candidate
+hydrocodone,ZYDONE,zydone,Brand candidate
