@@ -3,13 +3,13 @@
 ## What we are studying
 Solid oral (e.g., pills) and transdermal (e.g., patches) formulations of pharmaceutical medicines are not intended to be injected (subcutaneous, intravenous or intra-arterial). But we know from a century of experience that some people will invariably try to inject opioids, stimulants, benzodiazepines and barbiturates. Solid oral and transdermal formulations of pharmaceutical opioids are not intended to be administered by any other means (subcutaneous, intravenous or intra-arterial). 
 
-<i>Pill injection</i>
+<i>Pill injection</i><br>
 People who inject drugs may use any of these techniques to prepare solid formulations for injection: (1) modify a non-injectable dosage form, such as a capsule or transdermal patch, to suspend the active ingredient in a liquid solution, (2) separate the active ingredient from other non-desirable (in)active ingredients, and (3) overcome time-release and abuse-deterrent barriers that are engineered to be harder to crush. The tools to extract active ingredients include are well-known: crushing or scraping, applying heat or freezing, dilution, and dissolution with cirtus juice, vinegar, or household solvents. In general, medications that are designed for intravenous use are pH-buffered, isotonic, filtered and sterile. During drug preparation, the resulting solution may not have any of these life-saving characteristics, leading to potential health complications when injected.
 
-<i>Abuse detrrent formulations</i>
+<i>Abuse detrrent formulations</i><br>
 In response to opioid misuse, pharmaceutical manufacturers have tried to make pills harder to crush and suck into a syringe. Abuse deterrent formulations (ADFs) attempt to deter tampering by making it more difficult to extract the active ingredient (via crush, cut, grate or grinding), make it difficult to solubilize extracted particles (e.g., high viscosity when in contact with water), or contain aversive agents (e.g., opioid antagonists naloxone or naltrexone are released when the tablet is crushed). In order to prepare solid formulations for injection, one or more of the following steps are usually required: (1) modify a non-injectable dosage form, such as a capsule or transdermal patch, to suspend the active ingredient (e.g., opioid, stimulant, barbiturate, benzodiazepine) in a liquid solution; (2) separate the active ingredient from other non-desirable ingredients; and (3) overcome time-release and abuse deterrent formulations. Main preparation techniques include crushing, heating, freezing, and/or dilution. Other chemical agents may be added to the solution that are (sometimes incorrectly) believed to aid in dissolution, such as lemon juice or vinegar. In general, liquid medications that are designed for intravenous use are pH-buffered, isotonic, filtered and sterile. But, street preparations lose these characteristics, leading to a host of health complications upon injection.
 
-<i>Harm from inactive ingredients</i>
+<i>Harm from inactive ingredients</i><br>
 Solid pharmaceutical opioids, particularly ADFs, may contain bulking agents or fillers (“excipients”) such as talc or starch. These inactive excipient ingredients are often insoluble and contribute to additional complications including, but not limited to, local skin irritation, vascular complications and pulmonary dysfunction.
 
 ## Why it matters
