@@ -1,14 +1,14 @@
 # LAB NOTEBOOK
 
-# Stimulants of Inactive Ingredients
+# Finding Inactive Ingredients in Current CNS Stimulants
+
+## Background
+Solid oral (e.g., pills) and transdermal (e.g., patches) formulations of pharmaceutical medicines are not intended to be injected (subcutaneous, intravenous or intra-arterial). But we know from a century of experience that some people will invariably try to inject opioids, stimulants, benzodiazepines and barbiturates. In response to opioid misuse, pharmaceutical manufacturers have tried to make pills harder to crush and suck into a syringe. Abuse deterrent formulations (ADFs) attempt to deter tampering by making it more difficult to extract the active ingredient (via crush, cut, grate or grinding), make it difficult to solubilize extracted particles (e.g., high viscosity when in contact with water), or contain aversive agents (e.g., opioid antagonists naloxone or naltrexone are released when the tablet is crushed). Stimulants are [now being considered](https://www.fda.gov/news-events/fda-brief/fda-brief-fda-seeks-input-development-and-evaluation-abuse-deterrent-formulations-central-nervous) for ADF reformulation. Solid oral pharmaceuticals contain bulking agents or fillers (“excipients”) such as talc or starch; ADFs may contain new propietary excipients with limited population exposure. These inactive excipient ingredients are often insoluble, leading to additional complications (local skin irritation, vascular damage, pulmonary dysfunction) when injected. Inactive ingredients in new oral ADF stimulants should be evaluated for safety via intravenous and intra-arterial routes, since they will surely be subjected to injection in the community.
 
 ## Intent of the Analysis
-We are replying to the FDA [call for Docket submissions](https://www.fda.gov/news-events/fda-brief/fda-brief-fda-seeks-input-development-and-evaluation-abuse-deterrent-formulations-central-nervous) on input for abuse-derrent formulations of central nervous system stimulants (e.g., amphetamine, methamphetamine, methylphenidate, lisdexamfetamine). We are responding by compiling a list of inactive ingredients ("excipients") that are in currently approved stimulants 
+We are replying to the FDA [call for Docket comments](https://www.federalregister.gov/documents/2019/09/20/2019-20372/the-food-and-drug-administration-solicits-input-on-potential-role-for-abuse-deterrent-formulations) (Docket No. FDA-2019-N-3403, Due November 19, 2019) on about abuse-derrent formulations of central nervous system stimulants (e.g., amphetamine, methamphetamine, methylphenidate, lisdexamfetamine). We are responding by compiling a list of inactive ingredients ("excipients") that are in currently approved stimulants, ingredients that may be injected.
 1. Identify inactive ingredients used in prescription stimulants.
 2. Calculate relative use of inactives by ranked order of declaration.
-
-## Overview
-
 
 ## Data Source
 The beta version of [FDALabel version 2.4](https://www.fda.gov/science-research/bioinformatics-tools/fdalabel-full-text-search-drug-labeling) was queried on Thursday October 3, 2019 to identify all Established Product Classes (EPC) for the following ([permanent link to query at FDA](https://nctr-crs.fda.gov/fdalabel/ui/search/spl-summaries/criteria/50827), [CSV version](https://github.com/opioiddatalab/ExcipientHarm/blob/master/inactive%20ingredients/fdalabel-query-50827-stimulants.csv)):
@@ -70,7 +70,7 @@ stim_excipients.to_csv('stim_UNII_full.csv', sep="|", header=0)
 
 ```
 
-The Stata MP (v16) code below process the [resulting file](https://github.com/opioiddatalab/ExcipientHarm/blob/master/inactive%20ingredients/stim_UNII_full.csv) for analysis.
+The Stata MP (v16) code below process the [resulting file](https://github.com/opioiddatalab/ExcipientHarm/blob/master/inactive%20ingredients/stim_UNII_full.csv) for analysis, which also includes simplified manufacturer names.
 
 ```Stata
 import delimited "${two}stim_UNII_full.csv", encoding(ISO-8859-2) delimiter("|") clear
@@ -94,73 +94,6 @@ import delimited "${two}original query/fdalabel-query-50827-stimulants.csv", enc
 			gen marketyear=substr(marketingdatesyyyymmdd, 1, 4) 
 				order marketyear, a(marketingdatesyyyymmdd)
 					la var marketyear "Extracted year of market launch"
-	
-	* Empty variables
-	
-	* Standardize manufacturer names
-	
-		gen shortcompany=company
-			la var shortcompany "Trimmed manufacturer name for data viz"
-		
-		replace shortcompany = regexr(shortcompany," INC","")
-		replace shortcompany = regexr(shortcompany," LP","")
-		replace shortcompany = regexr(shortcompany," LLC","")
-		replace shortcompany = regexr(shortcompany," CORP","")
-		replace shortcompany = regexr(shortcompany," USA","")
-		replace shortcompany = regexr(shortcompany," CO$","")
-		replace shortcompany = regexr(shortcompany," L P","")
-		replace shortcompany = regexr(shortcompany," US$","")
-		replace shortcompany = regexr(shortcompany," LTD","")
-		replace shortcompany = regexr(shortcompany," LIMITED","")
-		replace shortcompany = regexr(shortcompany," U S A","")
-		replace shortcompany = regexr(shortcompany," PHARMACEUTICALS","")
-		replace shortcompany = regexr(shortcompany,"GLOBAL DIVISION OF ","")
-		replace shortcompany = regexr(shortcompany," LABORATORIES DIV PFIZER","")
-		replace shortcompany = regexr(shortcompany," PA$","")		
-		replace shortcompany = regexr(shortcompany,"WEST WARD PHARMACEUTICAL","WEST WARD PHARMACEUTICALS")
-		replace shortcompany = regexr(shortcompany," MANUFACTURING$","")
-		replace shortcompany = regexr(shortcompany," DIVISION$","")
-		replace shortcompany = regexr(shortcompany," PHARMACEUTICAL$","")
-		replace shortcompany = regexr(shortcompany," SOLUTIONS$","")
-		replace shortcompany = regexr(shortcompany," MEDICAL PRODUCTS$","")
-		replace shortcompany = regexr(shortcompany," PHARMA$","")
-		replace shortcompany = regexr(shortcompany," TECH$","")
-		replace shortcompany = regexr(shortcompany," OF NEW YORK","")
-		replace shortcompany = regexr(shortcompany," MANUFACTURING","")		
-		replace shortcompany = regexr(shortcompany," LABORATORIES","")	
-		replace shortcompany = regexr(shortcompany," LABS$","")	
-		replace shortcompany = regexr(shortcompany," PHARMACY","")	
-		replace shortcompany = regexr(shortcompany," TECHNOLOGIES$","")	
-		replace shortcompany = regexr(shortcompany," LLC","")	
-		replace shortcompany = regexr(shortcompany," TENNESSEE","")	
-		replace shortcompany = regexr(shortcompany," DRUGMPANY","")	
-		replace shortcompany = regexr(shortcompany,"NCS HEALTHCARE OF KY DBA ","")	
-		replace shortcompany = regexr(shortcompany," INSTITUTIONAL$","")	
-		replace shortcompany = regexr(shortcompany," THERAPEUTICS$","")	
-		replace shortcompany = regexr(shortcompany," NORTH AMERICA$","")	
-		replace shortcompany = regexr(shortcompany," DRUG$","")	
-		replace shortcompany = regexr(shortcompany," PREPACK$","")	
-		replace shortcompany = regexr(shortcompany," INDUSTRIES$","")	
-		replace shortcompany = regexr(shortcompany," DISTRIBUTORS$","")	
-		replace shortcompany = regexr(shortcompany," PACKAGING$","")
-		*replace shortcompany = regexr(shortcompany," COMPANY$","")
-		replace shortcompany = regexr(shortcompany," CO$","")
-		replace shortcompany = regexr(shortcompany," US","")
-		replace shortcompany = regexr(shortcompany,"BIOLOGICALSS","BIOLOGICALS")
-		replace shortcompany = regexr(shortcompany,"MARY S","MARYS")
-		replace shortcompany="MCKESSON" if regexm(company,"MCKESSON")
-		replace shortcompany="LAKE ERIE MEDICAL" if regexm(company,"LAKE ERIE MEDICAL")
-		replace shortcompany="BIASTAL" if regexm(company,"BIASTAL")
-		replace shortcompany="BIASTAL" if regexm(company,"BI COASTAL")
-		replace shortcompany="TEVA" if regexm(company,"TEVA")
-		
-		* fix certain names too aggressively edited above
-		replace shortcompany="DISPENSING SOLUTIONS" if shortcompany=="DISPENSING"
-		replace shortcompany="CONTRACT PHARMACY SERVICES" if shortcompany=="CONTRACT PHARMACY SERVICES PA"
-		replace shortcompany="HJ HARKINS COMPANY" if shortcompany=="H J HARKINS COMPANY INC"
-		
-		order shortcompany, a(company)
-		tab shortcompany, sort m
 	
 	* Create dichotomous category indicators for active ingredients
 		
@@ -261,11 +194,6 @@ import delimited "${two}original query/fdalabel-query-50827-stimulants.csv", enc
 				replace ingredient= regexr(lower(ingredientverbatim),", unspecified form","")
 				replace ingredient= regexr(lower(ingredientverbatim),", unspecified","")
 				
-				* silicon dioxide (also known as colloidal silicon dioxide)
-				* STARCH, PREGELATINIZED CORN 
-				* CROSPOVIDONE (12 MPA.S AT 5%)
-				* anything with parenthesis
-				
 	* Generate rank order of ingredients					
 		order rank, a(ingredient)
 			la var rank "Order of declaration postion for all ingredients"
@@ -279,7 +207,7 @@ import delimited "${two}original query/fdalabel-query-50827-stimulants.csv", enc
 ```
 
 ### Analysis
-The analysis was descriptive and simple.
+The analysis was descriptive and simple. The "order of declaration" in the ingredient list is supposed to be the rank order of inactive ingredients by volume (mass?). 
 
 ```Stata
 //	Extract stimulants for FDA ADF Docket November 2019
