@@ -9,7 +9,7 @@ All drugs from the following Established Product Classes (EPC) were retrieved ([
 5. Benzodiazepine EPC [query permalink](https://nctr-crs.fda.gov/fdalabel/ui/search/spl-summaries/criteria/50825)
 6. Central nervous system stimulant EPC [query permalink](https://nctr-crs.fda.gov/fdalabel/ui/search/spl-summaries/criteria/50827)
 
-The corpus has 2,177 results as individual text files, stored in this [ZIP archive](https://www.evernote.com/l/AhEwK_h3iH9OCIe_a1NpRYv4QtOJ9DzaK2s) (~50 MB). Each label is separated by filename stems, in 4 directories corresponding to the following classes:
+The corpus has 2,177 results as individual text files, stored in this [ZIP archive](https://osf.io/fxus7/) (~50 MB). Each label is separated by filename stems, in 4 directories corresponding to the following classes:
 
 Drug Class | Filename Convention | Number of Labels | Earliest Year | Latest Year
 :--- | :---: | :---: | :---: | :---: |
