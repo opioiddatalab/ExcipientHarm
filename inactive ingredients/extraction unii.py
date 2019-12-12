@@ -10,7 +10,7 @@ import os as os
 import re
 import pandas as pd
 
-os.chdir("/Users/nabarun/Dropbox/OneDrive - University of North Carolina at Chapel Hill/Excipients/Search terms/Excipient names/")
+os.chdir("/Search terms/Excipient names/")
 
 opioidsunii = []
 
